@@ -5,8 +5,8 @@
 
 | Dato | |
 |---|---|
-| Estudiante | `<tu nombre>` |
-| Matrícula | `<tu matrícula>` |
+| Estudiante | `Juan de Dios Guzman Isaias` |
+| Matrícula | `T03084010` |
 | Variante | `<número y nombre, por ejemplo: 1 — Barbería Filo>` |
 | Project (tablero) | `<enlace a tu GitHub Project>` |
 
