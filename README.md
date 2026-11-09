@@ -8,7 +8,7 @@
 | Estudiante | `Juan de Dios Guzman Isaias` |
 | Matrícula | `T03084010` |
 | Variante | `4 — Gimnasio Pulso ` |
-| Project (tablero) | `<enlace a tu GitHub Project>` |
+| Project (tablero) | `https://github.com/Jddgi/apartalo-gimnasio_pulso/blob/main/README.md` |
 
 ## Visión del producto
 > 🎩 PO · Ejercicio 1, punto 1. De 3 a 5 líneas: qué es la app, para quién y qué problema resuelve.
