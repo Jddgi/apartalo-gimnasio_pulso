@@ -21,7 +21,7 @@ body:
     attributes:
       label: Quiero (deseo)
       description: ¿Qué? Empieza con un verbo de acción.
-      placeholder: "Quiero reservar una clase disponible"
+      placeholder: "Quiero reservar una clase."
     validations:
       required: true
   - type: input
@@ -29,7 +29,7 @@ body:
     attributes:
       label: Para (beneficio)
       description: ¿Por qué? El valor que obtiene el rol.
-      placeholder: "Para asegurar mi lugar en el horario deseado."
+      placeholder: "Para asegurar mi lugar."
     validations:
       required: true
   - type: textarea
@@ -38,7 +38,7 @@ body:
       label: Criterios de aceptación
       description: Al menos 2. Son únicos de esta historia (la DoD aplica a todas).
       value: |
-        - [ ]
+        - El sistema debe mostrar las clases disponibles.
         - [ ]
     validations:
       required: true
