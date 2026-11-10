@@ -26,11 +26,7 @@ Sí utilizaría prototipos al inicio del proyecto para validar el proceso de res
 
 | Framework | Lo que tomo de él |
 |---|---|
-| Scrum |Product Backlog.
-Sprint Planning.
-Sprints de duración fija.
-Sprint Review.
-Sprint Retrospective.|
+| Scrum |Product Backlog, Sprint Planning, Sprints de duración fija, Sprint Review, Sprint Retrospective.|
 | Kanban |Tablero visual de tareas.
 Límites WIP (Work In Progress).
 Flujo continuo de trabajo.
