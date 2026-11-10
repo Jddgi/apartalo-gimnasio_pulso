@@ -39,7 +39,7 @@ body:
       description: Al menos 2. Son únicos de esta historia (la DoD aplica a todas).
       value: |
         - El sistema debe mostrar las clases disponibles.
-        - [ ]
+        - El sistema debe confirmar la reserva cuando exista cupo.
     validations:
       required: true
   - type: checkboxes
