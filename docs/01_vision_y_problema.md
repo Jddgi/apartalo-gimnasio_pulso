@@ -5,7 +5,7 @@
 ## 1.2 ¿Por qué no cascada?
 
 | Causa de falla de cascada | Cómo se vería en mi proyecto |
-|---|---|
+|hola|adios|
 | | |
 | | |
 
