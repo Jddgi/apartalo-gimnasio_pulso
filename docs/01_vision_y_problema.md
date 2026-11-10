@@ -6,7 +6,7 @@
 
 | Causa de falla de cascada | Cómo se vería en mi proyecto |
 |---|---|
-| hola|hola |
+|Los requisitos cambian o no están completamente definidos|Mariana aún no está segura de si implementar una lista de espera o mantener el sistema de "primer llegado, primer servido". Esto demuestra que existen requisitos que todavía necesitan validarse y podrían cambiar durante el desarrollo.|
 | | |
 
 ¿Usaría prototipos? ¿En qué momento y para qué?
