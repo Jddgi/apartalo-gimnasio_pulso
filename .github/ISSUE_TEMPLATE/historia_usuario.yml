@@ -10,7 +10,7 @@ body:
         Los **puntos**, la **prioridad** y el **sprint** se ponen en los campos del Project, no aquí.
   - type: input
     id: rol
-    attributes:
+    attributes: Socio
       label: Como (rol)
       description: ¿Quién? Usa uno de los roles que definiste.
       placeholder: "cliente frecuente"
