@@ -26,11 +26,22 @@ Sí utilizaría prototipos al inicio del proyecto para validar el proceso de res
 
 | Framework | Lo que tomo de él |
 |---|---|
-| Scrum | |
-| Kanban | |
-| XP | |
+| Scrum |Product Backlog.
+Sprint Planning.
+Sprints de duración fija.
+Sprint Review.
+Sprint Retrospective.|
+| Kanban |Tablero visual de tareas.
+Límites WIP (Work In Progress).
+Flujo continuo de trabajo.
+Monitoreo del avance mediante columnas. |
+| XP |Desarrollo guiado por pruebas (TDD).
+Refactorización continua.
+Integración frecuente.
+Código simple.|
 
 La combinación de Scrum y Kanban se llama:
+La combinación de Scrum y Kanban se conoce como Scrumban.
 
 ## 1.5 Requisito o solución
 
