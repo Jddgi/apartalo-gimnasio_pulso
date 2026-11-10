@@ -1,4 +1,4 @@
-# Apártalo — <nombre del negocio de tu variante>
+# Apártalo — Gimnasio Pulso 
 
 > Repositorio de la **Evidencia 1** de *Proyecto de ingeniería de software* (Tecmilenio, CRN 13241).
 > Sustituye todo lo que está entre `< >` y borra las líneas de ayuda que empiezan con `>`.
