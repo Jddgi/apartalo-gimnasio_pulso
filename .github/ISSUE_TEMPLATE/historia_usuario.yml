@@ -13,7 +13,7 @@ body:
     attributes: 
       label: Como (rol)
       description: ¿Quién? Usa uno de los roles que definiste.
-      placeholder: "cliente frecuente"
+      placeholder: "socio"
     validations:
       required: true
   - type: input
@@ -21,7 +21,7 @@ body:
     attributes:
       label: Quiero (deseo)
       description: ¿Qué? Empieza con un verbo de acción.
-      placeholder: "cancelar mi cita desde la app"
+      placeholder: "Quiero reservar una clase disponible"
     validations:
       required: true
   - type: input
@@ -29,7 +29,7 @@ body:
     attributes:
       label: Para (beneficio)
       description: ¿Por qué? El valor que obtiene el rol.
-      placeholder: "no tener que llamar al negocio"
+      placeholder: "Para asegurar mi lugar en el horario deseado."
     validations:
       required: true
   - type: textarea
