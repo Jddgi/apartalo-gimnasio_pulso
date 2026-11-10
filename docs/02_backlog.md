@@ -6,9 +6,9 @@
 
 | Rol | Quién es | Qué desea |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+|Socio |Cliente del gimnasio que reserva y asiste a clases. |Entrenar diariamente |
+|Instructor |Responsable de impartir las clases y registrar asistencia. |Brindar el mejor servicio posible |
+|Reloj Inteligente (rol no humano) |Dispositivo externo que comparte información de actividad física con la aplicación. |aclarar dudas del usuario |
 
 ## 2.4 Plantilla invertida: historias que me faltaban
 
