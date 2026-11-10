@@ -6,7 +6,7 @@
 
 | Causa de falla de cascada | Cómo se vería en mi proyecto |
 |---|---|
-| | |
+| hola|hola |
 | | |
 
 ¿Usaría prototipos? ¿En qué momento y para qué?
