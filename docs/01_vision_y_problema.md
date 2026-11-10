@@ -38,7 +38,7 @@ La combinación de Scrum y Kanban se conoce como Scrumban.
 
 | # | Lo que dijo mi cliente | ¿Requisito o solución? | Si es solución: el requisito que hay detrás |
 |---|---|---|---|
-| 1 | | | |
+| 1 |"Las clases de las 7 de la mañana se llenan y la gente se pelea por el lugar." |Requisito |El sistema debe gestionar la reserva de lugares limitados de forma justa y ordenada. |
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |
