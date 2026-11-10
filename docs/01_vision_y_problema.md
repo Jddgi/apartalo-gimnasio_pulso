@@ -17,10 +17,10 @@ Sí utilizaría prototipos al inicio del proyecto para validar el proceso de res
 
 | Valor o principio | Decisión concreta en mi proyecto |
 |---|---|
-| Valor: | |
-| Valor: | |
-| Principio: | |
-| Principio: | |
+| Valor: Individuos e interacciones sobre procesos y herramientas|Realizar reuniones semanales con Mariana para revisar el avance y resolver dudas sobre las reglas de negocio en lugar de depender únicamente de documentación extensa.|
+| Valor: Software funcionando sobre documentación exhaustiva|Entregar al final del Sprint 1 una versión funcional de reservas y control de cupos en lugar de producir únicamente documentos de análisis.|
+| Principio: Nuestra mayor prioridad es satisfacer al cliente mediante la entrega temprana y continua de software con valor.|Implementar primero la reserva de clases y el control de clases disponibles, ya que son las funciones más importantes para el negocio. |
+| Principio:Los requisitos pueden cambiar incluso en etapas tardías del desarrollo. |Diseñar el sistema de reservas de forma flexible para poder cambiar entre lista de espera y primer llegado sin rehacer toda la aplicación. |
 
 ## 1.4 Frameworks
 
