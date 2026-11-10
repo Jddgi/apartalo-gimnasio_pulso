@@ -47,7 +47,7 @@ La combinación de Scrum y Kanban se conoce como Scrumban.
 
 ## 1.6 Incertidumbre
 
-- **Incertidumbre del *qué*:** alta / baja, porque…
-- **Incertidumbre del *cómo*:** alta / baja, porque…
-- **Zona del diagrama:**
-- **Qué haré en este sprint para bajar la incertidumbre del *qué*:**
+- **Incertidumbre del *qué*:** alta, porque la cliente aún no decide cómo gestionar la alta demanda de las clases cuando se llenan los cupos. En particular, no sabe si usar una lista de espera o permitir que se registre únicamente quien llegue primero.
+- **Incertidumbre del *cómo*:** baja, porque la implementación técnica de reservas, control de cupos (20 lugares), lista de espera (5 personas), ranking de usuarios, control de planes e integración con dispositivos es conocida y existen tecnologías para desarrollarla.
+- **Zona del diagrama:** Qué desconocido / Cómo conocido (alta incertidumbre en el qué y baja incertidumbre en el cómo).
+- **Qué haré en este sprint para bajar la incertidumbre del *qué*:** crearé un prototipo de las dos alternativas (lista de espera y primer llegado, primer servido), lo revisaré con Mariana y recopilaré retroalimentación para determinar cuál satisface mejor la necesidad de administrar la alta demanda de las clases de las 7:00 a.m. y las horas pico de reservas.
