@@ -39,10 +39,11 @@ La combinación de Scrum y Kanban se conoce como Scrumban.
 | # | Lo que dijo mi cliente | ¿Requisito o solución? | Si es solución: el requisito que hay detrás |
 |---|---|---|---|
 | 1 |"Las clases de las 7 de la mañana se llenan y la gente se pelea por el lugar." |Requisito |El sistema debe gestionar la reserva de lugares limitados de forma justa y ordenada. |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 2 |"Quiero que la app tenga un ranking de quién va más, con medallas." |Solución |El sistema debe incentivar la asistencia y participación de los socios. |
+| 3 |"Que el socio vea cuántas clases le quedan en el mes." |Requisito |El usuario debe poder consultar sus clases disponibles según su plan. |
+| 4 |"Quiero que se integre con el reloj inteligente de cada socio." |Solución |El sistema debe registrar o consultar información de actividad física del usuario de manera automática. |
+| 5 |"No sé si hacer lista de espera o dejar que se apunte el primero que llegue." |Solución |El sistema debe administrar la alta demanda de clases cuando se agoten los lugares disponibles. |
+**Profe, no entendí mucho si solo son los requisitos los que se ponen en la última columna, pero por si acaso porgo ambos casos.
 
 ## 1.6 Incertidumbre
 
