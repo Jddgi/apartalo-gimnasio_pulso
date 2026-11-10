@@ -13,7 +13,7 @@
 ## Visión del producto
 > 🎩 PO · Ejercicio 1, punto 1. De 3 a 5 líneas: qué es la app, para quién y qué problema resuelve.
 
-<tu visión>
+Pulso es una aplicación móvil diseñada para los socios del gimnasio de Mariana que permite reservar clases de spinning, yoga y box de manera sencilla. La aplicación ayuda a gestionar cupos limitados, controlar las clases disponibles de cada plan y administrar cancelaciones. Además, permite consultar el historial de asistencia, el ranking de usuarios más activos y la integración con relojes inteligentes para registrar actividad física.
 
 ## Mi equipo Scrum (los tres sombreros)
 
