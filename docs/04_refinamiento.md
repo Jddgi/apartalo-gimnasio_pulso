@@ -12,11 +12,14 @@ Se asignó prioridad Must a las historias necesarias para gestionar reservas, ca
 Historia: #
 Boceto: `![boceto](img/<archivo>)`
 <img width="932" height="607" alt="image" src="https://github.com/user-attachments/assets/e1fbe290-5b4f-44ab-8035-a1600ddc52d2" />
+Se subio la imagen en los comentarios del HU: 01
 
 
 ## 4.3 Medir
 
 Escala de puntos: 1, 2, 3, 5, 8, 13, 21.
+
+Se asigno la escala en el tablero del proyecto
 
 ## 4.4 Dividir
 
