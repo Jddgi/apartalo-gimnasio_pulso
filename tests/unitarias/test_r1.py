@@ -1,6 +1,7 @@
+import pytest
 from apartalo.reglas import calcular_cobro_extra
 
-
+@pytest.mark.unitaria
 def test_basico_sin_extras():
 
     assert calcular_cobro_extra(
@@ -8,7 +9,7 @@ def test_basico_sin_extras():
         8
     ) == 0
 
-
+@pytest.mark.unitaria
 def test_basico_con_extra():
 
     assert calcular_cobro_extra(
@@ -16,7 +17,7 @@ def test_basico_con_extra():
         9
     ) == 90
 
-
+@pytest.mark.unitaria
 def test_plus_con_extra():
 
     assert calcular_cobro_extra(
@@ -24,7 +25,7 @@ def test_plus_con_extra():
         17
     ) == 70
 
-
+@pytest.mark.unitaria
 def test_ilimitado():
 
     assert calcular_cobro_extra(
