@@ -102,9 +102,11 @@ Me gustaría que, cuando una clase esté llena, el socio reciba una notificació
 > 🎩 SM facilita
 
 **¿Qué salió bien?**
+La definición temprana de los requisitos y las historias de usuario permitió organizar adecuadamente el backlog desde el inicio del proyecto. La utilización de GitHub Projects facilitó la visualización del trabajo y la priorización de las funcionalidades más importantes, especialmente las relacionadas con las reglas de negocio R1 y R2. Además, los escenarios BDD ayudaron a comprender mejor los comportamientos esperados antes de comenzar el desarrollo.
 
 **¿Qué hay que mejorar?**
+La estimación de historias y la configuración de algunas herramientas requirieron más tiempo del esperado debido a la falta de experiencia previa con GitHub Projects y los artefactos ágiles. También sería conveniente identificar con mayor anticipación las historias demasiado grandes para dividirlas antes de realizar la estimación y planificación del sprint.
 
 **Acciones para el Sprint 2:**
-1.
-2.
+1.Dividir y refinar las historias grandes antes de la planeación del sprint, para facilitar la estimación y reducir la incertidumbre durante el desarrollo.
+2.Mantener el tablero Kanban actualizado diariamente, moviendo las historias en cuanto cambien de estado para reflejar con mayor precisión el avance real del sprint.
