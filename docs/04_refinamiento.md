@@ -5,6 +5,7 @@
 ## 4.1 Pesar (MoSCoW)
 
 Criterio que usé:
+Se asignó prioridad Must a las historias necesarias para gestionar reservas, cancelaciones y control de clases, ya que permiten el funcionamiento básico del gimnasio. Las historias Should aportan valor operativo adicional, mientras que las Could mejoran la experiencia del usuario. Las épicas fueron clasificadas como Won't para este sprint debido a su alta complejidad e incertidumbre.
 
 ## 4.2 Ilustrar
 
