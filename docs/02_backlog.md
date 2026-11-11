@@ -21,6 +21,8 @@
 
 ¿Cómo me ayudó ordenar por beneficio?
 
+Pensar primero en el beneficio permitió identificar necesidades que no eran evidentes al revisar únicamente las funcionalidades existentes. Al analizar qué beneficios esperaba obtener cada usuario, descubrí la necesidad de enviar recordatorios de clases y generar estadísticas sobre la demanda de horarios. Estas historias complementan el backlog porque aportan valor tanto para los socios como para la administración del gimnasio.
+
 ## 2.5 Glosario (lenguaje ubicuo)
 
 | Término | Qué significa para mi cliente |
