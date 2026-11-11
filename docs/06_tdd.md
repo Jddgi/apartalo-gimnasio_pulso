@@ -5,7 +5,7 @@
 
 | Ciclo | Commit ROJO | Commit VERDE | Commit REFACTOR (si hubo) | Qué aprendí |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 |ROJO: prueba de cancelacion con menos de 3 horas |VERDE: cancelacion cuenta clase tomada |REFACTOR: documentar regla de cancelacion |Aprendí a crear una prueba antes de implementar la funcionalidad y a mejorar el código sin cambiar su comportamiento. |
 | 2 | | | | |
 | 3 | | | | |
 
