@@ -36,6 +36,7 @@ def calcular_cobro_extra(plan, clases_tomadas):
     return clases_extra * precio_extra
 
 
+# Implementacion de la regla R2
 def procesar_cancelacion(horas_anticipacion, no_se_presento=False):
     """
     R2 - Cancelación de una clase
