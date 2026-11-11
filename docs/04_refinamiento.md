@@ -11,6 +11,8 @@ Se asignó prioridad Must a las historias necesarias para gestionar reservas, ca
 
 Historia: #
 Boceto: `![boceto](img/<archivo>)`
+<img width="932" height="607" alt="image" src="https://github.com/user-attachments/assets/e1fbe290-5b4f-44ab-8035-a1600ddc52d2" />
+
 
 ## 4.3 Medir
 
