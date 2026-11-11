@@ -5,9 +5,9 @@
 
 | Columna | Límite | Por qué ese número |
 |---|---|---|
-| Aceptación | | |
-| Desarrollo | | |
-| Pruebas | | |
+| Aceptación |2 |Como el equipo está formado por una sola persona, revisar más de dos historias al mismo tiempo podría generar acumulación de trabajo pendiente. Con un límite de dos historias se mantiene un flujo constante y se evita multitarea excesiva. |
+| Desarrollo |1 |Solo una historia debe estar en desarrollo al mismo tiempo, ya que una sola persona no puede programar eficientemente varias funcionalidades simultáneamente sin afectar la productividad. |
+| Pruebas |1 |Las pruebas deben enfocarse en una historia a la vez para garantizar una validación adecuada antes de continuar con nuevas funcionalidades. |
 
 ## 3.3 Políticas explícitas
 
