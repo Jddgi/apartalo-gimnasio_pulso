@@ -20,8 +20,11 @@ Implementar y validar las reglas de negocio de cobro de clases extra y cancelaci
 
 | Historia | Puntos | Horas estimadas |
 |---|---|---|
-| # | | |
-| **Total** | | |
+| #HU:01 Reservar una clase |5 |5 |
+| #HU:03 Cancelar una clase |5 |4 |
+| #HU:05 Ver clases restantes del mes |2 |2 |
+| #HU:06 Consultar cobro de clases extra |5 |5 |
+| **Total** |17 |16 |
 
 **Definición de Terminado (DoD):**
 1.
