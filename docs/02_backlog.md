@@ -28,7 +28,7 @@ Pensar primero en el beneficio permitió identificar necesidades que no eran evi
 | Término | Qué significa para mi cliente |
 |---|---|
 |Socio |Cliente inscrito en el gimnasio. |
-|Reserva Registro anticipado de un lugar en una clase.| |
+|Reserva Registro anticipado de un lugar en una clase.|Registro anticipado de un lugar en una clase. |
 |Cupo |Número máximo de participantes permitidos en una clase (20). |
 |Lista de espera |Cola de máximo 5 personas cuando el cupo está lleno. |
 |Clase extra |Clase tomada por encima de las incluidas en la membresía mensual. |
