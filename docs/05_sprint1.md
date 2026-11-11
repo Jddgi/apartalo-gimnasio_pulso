@@ -42,10 +42,35 @@ Por ejemplo, en la historia HU03 (cancelar una clase), un criterio de aceptació
 > 🎩 desarrollador responde · 🎩 SM anota impedimentos
 
 ### <fecha>
-- **¿Qué hice?**
-- **¿Qué haré?**
-- **¿Qué me lo impide?**
+Entrada 1 (27/oct/2026)
+¿Qué hice?: Definí la visión del producto, los roles de usuario y analicé los requisitos del gimnasio Pulso.
+¿Qué haré?: Crear las historias de usuario y organizar el product backlog.
+¿Qué me lo impide?: Nada por el momento.
 
+Entrada 2 (29/oct/2026)
+¿Qué hice?: Redacté las historias de usuario, criterios de aceptación y épicas del proyecto.
+¿Qué haré?: Priorizar las historias y agregar los elementos al Project de GitHub.
+¿Qué me lo impide?: No tenía claro cómo clasificar algunas ideas del cliente como requisitos o soluciones.
+
+Entrada 3 (31/oct/2026)
+¿Qué hice?: Organicé el backlog, clasifiqué historias con MoSCoW y configuré el tablero Kanban.
+¿Qué haré?: Definir límites WIP y documentar las políticas explícitas del tablero.
+¿Qué me lo impide?: Tuve dificultades para entender la configuración de algunas opciones de GitHub Projects.
+
+Entrada 4 (02/nov/2026)
+¿Qué hice?: Configuré los límites WIP, documenté las políticas del tablero y revisé las prácticas de Kanban.
+¿Qué haré?: Estimar puntos de historia y calcular la carga máxima por historia.
+¿Qué me lo impide?: Nada por el momento.
+
+Entrada 5 (05/nov/2026)
+¿Qué hice?: Asigné puntos a las historias, calculé la velocidad promedio y dividí la historia de integración con reloj inteligente.
+¿Qué haré?: Crear los escenarios BDD para las reglas R1 y R2.
+¿Qué me lo impide?: Tenía dudas sobre cómo identificar correctamente los valores límite para los escenarios de prueba.
+
+Entrada 6 (07/nov/2026)
+¿Qué hice?: Elaboré los escenarios BDD, la tabla FIT y concluí la planeación del Sprint 1.
+¿Qué haré?: Comenzar la implementación de las reglas de negocio R1 y R2 y preparar las pruebas unitarias.
+¿Qué me lo impide?: Ningún impedimento activo.
 <!-- Repite el bloque: al menos 6 entradas en días distintos -->
 
 **Impedimentos y qué hizo el SM:**
