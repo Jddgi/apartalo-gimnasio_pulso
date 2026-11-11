@@ -13,12 +13,12 @@
 
 | Para pasar a… | La tarjeta debe cumplir… |
 |---|---|
-| Aceptación | |
-| Desarrollo | |
-| Desarrollo listo | |
-| Pruebas | |
-| Pruebas listo | |
-| Liberación | |
+| Aceptación |La tarjeta pasa a esta columna cuando la historia ha sido seleccionada para el sprint y sus requisitos están suficientemente claros para comenzar el trabajo. |
+| Desarrollo |La tarjeta pasa a Desarrollo cuando los criterios de aceptación son entendidos y se inicia la implementación de la funcionalidad. |
+| Desarrollo listo |La tarjeta pasa a Desarrollo listo cuando el código está terminado, compilado sin errores y listo para ser validado. |
+| Pruebas |La tarjeta pasa a Pruebas cuando la implementación ha finalizado y se realizan pruebas funcionales para verificar los criterios de aceptación. |
+| Pruebas listo |La tarjeta pasa a Pruebas listo cuando todas las pruebas fueron completadas exitosamente y no existen errores pendientes. |
+| Liberación |La tarjeta pasa a Liberación cuando cumple todos los criterios de aceptación, las pruebas fueron aprobadas y la funcionalidad está lista para entregarse al usuario. |
 
 ## 3.4 Las seis prácticas de kanban en mi tablero
 
