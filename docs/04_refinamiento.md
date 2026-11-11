@@ -36,9 +36,9 @@ Se asigno la escala en el tablero del proyecto
 
 > Escríbela antes de programar. Al terminar el Ejercicio 6, agrega la columna "Resultado real" y marca cada fila: ✅ si pasó, ❌ si falló (con el valor esperado y el real).
 
-| (entrada) | (entrada) | Resultado esperado | Resultado real |
+|Horas de anticipación |¿Se presentó? | Resultado esperado | Resultado real |
 |---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+|3.00 |si |Clase devuelta (no cuenta como tomada) |✅ |
+|2.99 |si |Clase tomada |✅ |
+|0.00 |si |Clase tomada |✅ |
+|5.00 |no |Clase tomada y multa de $50 |✅ |
