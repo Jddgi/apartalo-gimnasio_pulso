@@ -35,6 +35,6 @@ Pensar primero en el beneficio permitió identificar necesidades que no eran evi
 
 ## 2.6 El iceberg
 
-- **En la punta:**
-- **En el fondo:**
-- **Por qué:**
+- **En la punta:** Las historias relacionadas con reservar clases, consultar clases disponibles, cancelar reservas, controlar los cupos de 20 lugares, gestionar la lista de espera y visualizar las clases restantes del mes. Estas funcionalidades cubren las reglas de negocio principales (R1, R2 y R3) y son esenciales para el funcionamiento del gimnasio.
+- **En el fondo:** Las épicas de integración con relojes inteligentes y el sistema de recompensas con ranking y medallas. También se encuentran las funcionalidades avanzadas de análisis y gamificación que requieren mayor definición.
+- **Por qué:** Los elementos de la punta aportan el mayor valor al negocio y tienen requisitos más claros, por lo que deben desarrollarse primero. En cambio, las épicas del fondo son más grandes, tienen mayor incertidumbre y necesitan dividirse en historias más pequeñas antes de poder implementarse adecuadamente.
