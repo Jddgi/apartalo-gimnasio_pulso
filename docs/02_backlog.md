@@ -16,8 +16,8 @@
 
 | Beneficio que revisé | Historia que encontré | Issue |
 |---|---|---|
-|Que el socio no olvide sus clases reservadas |Como socio, quiero recibir recordatorios antes del inicio de una clase, para asistir puntualmente a mis reservas. | # |
-|Administrar mejor la demanda de los horarios |Como administradora Mariana, quiero identificar las clases con mayor demanda, para tomar decisiones sobre horarios y capacidad. | # |
+|Que el socio no olvide sus clases reservadas |Como socio, quiero recibir recordatorios antes del inicio de una clase, para asistir puntualmente a mis reservas. | #5 |
+|Administrar mejor la demanda de los horarios |Como administradora Mariana, quiero identificar las clases con mayor demanda, para tomar decisiones sobre horarios y capacidad. | #8 |
 
 ¿Cómo me ayudó ordenar por beneficio?
 
