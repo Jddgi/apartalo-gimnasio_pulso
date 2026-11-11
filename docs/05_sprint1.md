@@ -27,12 +27,16 @@ Implementar y validar las reglas de negocio de cobro de clases extra y cancelaci
 | **Total** |17 |16 |
 
 **Definición de Terminado (DoD):**
-1.
-2.
-3.
-4.
+1.El código implementa correctamente la funcionalidad solicitada.
+2.Todas las pruebas unitarias pasan exitosamente.
+3.Los criterios de aceptación de la historia se cumplen.
+4.El código fue integrado al repositorio principal.
+5.La documentación necesaria fue actualizada.
 
 **DoD vs. criterios de aceptación (con un ejemplo de mi backlog):**
+Los criterios de aceptación son condiciones específicas que debe cumplir una historia en particular. La Definición de Terminado establece condiciones generales que todas las historias del proyecto deben cumplir antes de considerarse finalizadas.
+
+Por ejemplo, en la historia HU03 (cancelar una clase), un criterio de aceptación indica que si la cancelación ocurre con 3 horas o más de anticipación la clase debe devolverse al socio. En cambio, la Definición de Terminado exige además que existan pruebas exitosas, documentación actualizada e integración al repositorio.
 
 ## B. Junta diaria — bitácora
 > 🎩 desarrollador responde · 🎩 SM anota impedimentos
