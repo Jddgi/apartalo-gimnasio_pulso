@@ -30,7 +30,7 @@ Se asigno la escala en el tablero del proyecto
 
 | Historia original | Puntos | Subhistorias (issues) | Puntos de cada una | ¿Cómo la partí? |
 |---|---|---|---|---|
-| # | | # , # | | |
+|#HU:12 Integración con reloj inteligente |13 |HU:12A, HU:12B, HU:12C |5, 3, 5 |Separé la integración en tres partes: conectar el reloj inteligente, recibir datos de actividad física y mostrar la información del usuario en la aplicación. |
 
 ## 4.6 R2 como tabla FIT
 
