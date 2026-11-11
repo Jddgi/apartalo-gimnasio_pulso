@@ -24,9 +24,9 @@
 
 | Práctica | Cómo la aplico (o por qué todavía no aplica) |
 |---|---|
-| 1. Visualizar el trabajo | |
-| 2. Limitar el WIP | |
-| 3. Administrar el flujo | |
-| 4. Hacer explícitas las políticas | |
-| 5. Implementar ciclos de retroalimentación | |
-| 6. Mejora colaborativa y evolución experimental | |
+| 1. Visualizar el trabajo |Se utilizará un tablero Kanban con las columnas Historias, Aceptación, Desarrollo, Desarrollo listo, Pruebas, Pruebas listo y Liberación. |
+| 2. Limitar el WIP |Se establecieron límites WIP en Aceptación, Desarrollo y Pruebas para evitar saturación de trabajo. |
+| 3. Administrar el flujo |Las historias avanzarán entre columnas conforme completen las políticas definidas para cada etapa. |
+| 4. Hacer explícitas las políticas |Cada columna posee reglas claras para determinar cuándo una tarjeta puede avanzar al siguiente estado. |
+| 5. Implementar ciclos de retroalimentación |Se revisará periódicamente el tablero para detectar bloqueos y ajustar prioridades durante el sprint. |
+| 6. Mejora colaborativa y evolución experimental |Después de cada sprint se analizará el flujo de trabajo para identificar mejoras en el proceso y ajustar los límites WIP si es necesario. |
