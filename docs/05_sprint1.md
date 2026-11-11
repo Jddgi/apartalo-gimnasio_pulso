@@ -11,10 +11,10 @@ Implementar y validar las reglas de negocio de cobro de clases extra y cancelaci
 
 | Concepto | Horas |
 |---|---|
-| Horas disponibles en las dos semanas | |
-| − Otras actividades (clases, trabajo, tareas) | |
-| = Disponibilidad | |
-| ÷ 2 = **Capacidad** | |
+| Horas disponibles en las dos semanas |56 |
+| − Otras actividades (clases, trabajo, tareas) |24 |
+| = Disponibilidad |32 |
+| ÷ 2 = **Capacidad** |16 |
 
 **Compromiso (historias del Sprint 1):**
 
