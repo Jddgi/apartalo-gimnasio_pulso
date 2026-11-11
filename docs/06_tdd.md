@@ -9,6 +9,13 @@
 | 2 | | | | |
 | 3 | | | | |
 
+## 6.5 Suites
+Se marcaron todas las pruebas con las suites correspondientes:
+
+@pytest.mark.unitaria para las pruebas unitarias.
+@pytest.mark.aceptacion para las pruebas de aceptación.
+Las pruebas fueron organizadas siguiendo la configuración definida en pytest.ini.
+
 ## 6.6 Cobertura de caminos
 
 - **Función:**
