@@ -5,6 +5,7 @@
 > 🎩 SM facilita · 🎩 PO presenta · 🎩 desarrollador se compromete
 
 **Objetivo del sprint:**
+Implementar y validar las reglas de negocio de cobro de clases extra y cancelación de clases para los socios del gimnasio Pulso.
 
 **Capacidad en horas (Figura 2 del Tema 11):**
 
