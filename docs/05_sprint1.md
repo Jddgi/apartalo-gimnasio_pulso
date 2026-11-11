@@ -77,7 +77,9 @@ Entrada 6 (07/nov/2026)
 
 | Fecha | Impedimento | Qué hizo el SM |
 |---|---|---|
-| | | |
+|29/oct/2026 |Dudas para distinguir requisitos de soluciones planteadas por la cliente. |Revisó las necesidades de negocio y documentó la diferencia entre el "qué" y el "cómo". |
+|31/oct/2026 |Dificultad para configurar correctamente el tablero Kanban en GitHub Projects. |Investigó la configuración del tablero y definió las columnas y límites WIP necesarios. |
+|05/nov/2026 |Incertidumbre sobre los valores límite para los escenarios BDD. |Revisó las reglas R1 y R2 e identificó los puntos exactos donde cambia el comportamiento de cada regla. |
 
 ## C. Revisión del sprint
 > 🎩 PO revisa como si fuera mi cliente
