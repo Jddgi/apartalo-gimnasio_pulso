@@ -86,9 +86,17 @@ Entrada 6 (07/nov/2026)
 
 | Historia | ¿Cumple sus criterios? | ¿Aceptada? | Evidencia |
 |---|---|---|---|
-| # | | | |
+| #HU:01 Reservar una clase |Sí, los criterios fueron definidos y validados durante el refinamiento. |si |Issue HU:01 y boceto enlazado en la historia. |
+| #HU:03 Cancelar una clase (R2) |Sí, los criterios fueron especificados en los escenarios BDD y tabla FIT. |si |features/r2_cancelacion.feature y docs/04_refinamiento.md. |
+| #HU:05 Ver clases restantes |Sí, los criterios de aceptación fueron documentados claramente. |si |Issue HU:05. |
+| #HU:06 Consultar cobro de clases extra (R1) |Sí, los criterios fueron definidos y cubiertos mediante escenarios BDD. |si |features/r1_cobro_clases.feature. |
 
 **Cambio que pediría mi cliente → historia nueva:** #
+Cambio que pediría mi cliente → historia nueva: HU:13
+
+Observación de Mariana:
+
+Me gustaría que, cuando una clase esté llena, el socio reciba una notificación automática si se libera un lugar.
 
 ## D. Retrospectiva
 > 🎩 SM facilita
