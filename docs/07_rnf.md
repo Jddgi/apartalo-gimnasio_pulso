@@ -10,8 +10,8 @@
 
 ## 7.3 La que compruebo con código
 
-- **Restricción:** #
-- **Prueba:** `tests/rnf/<archivo>.py`
+- **Restricción:** #RNF-03 Mantenibilidad de las reglas de negocio (#número_real_del_issue)
+- **Prueba:** `tests/rnf/test_rnf_robustez.py`
 
 ## 7.4 Una por sprint
 
