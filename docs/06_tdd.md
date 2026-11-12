@@ -18,11 +18,13 @@ Las pruebas fueron organizadas siguiendo la configuración definida en pytest.in
 
 ## 6.6 Cobertura de caminos
 
-- **Función:**
-- **Caminos** (cada `return` y cada `raise`):
-- **Caminos que recorren mis pruebas:**
-- **Cobertura:**
-- **Pruebas que agregué para completar:**
+- **Función:** procesar_cancelacion(horas_anticipacion, no_se_presento=False)
+- **Caminos** (cada `return` y cada `raise`):1 raise ValueError cuando las horas son negativas, 2 return cuando el usuario no se presenta (multa de $50), 3 return cuando cancela con 3 horas o más de anticipación, 4 return cuando cancela con menos de 3 horas de anticipación.
+- **Caminos que recorren mis pruebas:** 1 Cancelación con menos de 3 horas → prueba test_cancelacion_menos_de_3_horas(), 2 Cancelación con exactamente 3 horas → prueba test_cancelacion_con_3_horas(), 3 No presentación → prueba test_no_show(), 4 Horas negativas → prueba agregada para verificar ValueError.
+- **Cobertura:** Caminos totales: 4
+Caminos recorridos por las pruebas: 4
+Cobertura = 4 / 4 × 100 = 100 %
+- **Pruebas que agregué para completar:** Se agregó una prueba para verificar que la función lance ValueError cuando se recibe un número negativo de horas de anticipación, ya que inicialmente ese camino no estaba cubierto por las pruebas.
 
 ## 6.7 Regresión
 
