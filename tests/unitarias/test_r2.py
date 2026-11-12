@@ -3,7 +3,10 @@ from apartalo.reglas import procesar_cancelacion
 
 @pytest.mark.unitaria
 def test_cancelacion_menos_de_3_horas():
-
+    
+    with pytest.raises(ValueError):
+        procesar_cancelacion(-1)
+        
     resultado = procesar_cancelacion(2)
 
     assert resultado["cuenta_como_tomada"] is True
