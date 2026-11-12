@@ -7,11 +7,11 @@
 
 | Consulta | Resultado |
 |---|---|
-| a) Puntos comprometidos en el Sprint 1 | |
-| b) Puntos entregados | |
-| c) Porcentaje de cumplimiento | |
-| d) Tiempo de ciclo promedio (días) | |
-| e) Subconjunto: historias Must | (pega la tabla) |
+| a) Puntos comprometidos en el Sprint 1 |24 |
+| b) Puntos entregados | 20|
+| c) Porcentaje de cumplimiento |83.33 |
+| d) Tiempo de ciclo promedio (días) |2.5 dias |
+| e) Subconjunto: historias Must | |hola | |
 
 ## Interpretación
 
