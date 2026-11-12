@@ -15,5 +15,5 @@
 
 ## 7.4 Una por sprint
 
-- **La que agrego a mi DoD en el Sprint 1:**
-- **Las que dejo para después y por qué:**
+- **La que agrego a mi DoD en el Sprint 1:** RNF-03 Mantenibilidad de las reglas de negocio. Se agrega al DoD porque está directamente relacionada con el trabajo realizado en este sprint. Además, ya se implementaron pruebas unitarias, pruebas de aceptación, cobertura de caminos y una prueba RNF que permiten verificar su cumplimiento de manera objetiva.
+- **Las que dejo para después y por qué:**RNF-01 Rendimiento de reservas en hora pico y RNF-02 Disponibilidad del sistema de reservas se dejan para sprints posteriores porque requieren pruebas de carga, monitoreo y simulación de múltiples usuarios concurrentes. En este sprint el enfoque estuvo en implementar y validar las reglas de negocio R1 y R2, por lo que aún no se cuenta con una aplicación completa que permita medir esas características de forma realista.
