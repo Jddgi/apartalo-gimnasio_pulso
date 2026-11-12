@@ -1,0 +1,22 @@
+Title	URL	Assignees	Status	Linked pull requests	Sub-issues progress	Prioridad	Puntos
+HU: 01	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/1		Desarrollo			Must	5
+HU: 05	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/5		Aceptación			Could	2
+HU: 02	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/2		Historias			Must	5
+HU: 03	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/3		Historias			Could	3
+HU: 04	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/4		Historias			Must	2
+HU: 06	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/6		Historias			Must	5
+HU: 07	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/7		Historias			Could	3
+HU: 08	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/8		Historias			Could	3
+HU: 09	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/9		Historias			Must	5
+HU: 10	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/10		Historias			Must	8
+HU: 11	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/11		Historias			Should	3
+HU: 12	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/12		Historias			Should	7.5
+EP: 01	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/13		Historias			Won't	
+EP: 02	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/14		Historias			Won't	
+HU: 12A	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/15		Historias				
+HU: 12B	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/16		Historias				
+HU: 12C	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/17		Historias				
+HU: 13	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/18		Historias				
+RNF: 01 Rendimiento de reservas en hora pico	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/19		Historias				
+RNF: 02 Disponibilidad del sistema de reservas	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/20		Historias				
+RNF: 03 Mantenibilidad de las reglas de negocio	https://github.com/Jddgi/apartalo-gimnasio_pulso/issues/21		Historias				
