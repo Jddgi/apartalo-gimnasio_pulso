@@ -28,6 +28,12 @@ Cobertura = 4 / 4 × 100 = 100 %
 
 ## 6.7 Regresión
 
-- **Defecto** (encontrado o provocado):
-- **Prueba que lo detecta:**
-- **Qué pasaba y cómo lo corregí:**
+- **Defecto** (encontrado o provocado): Se provocó un defecto modificando la condición de la función procesar_cancelacion() de: if horas_anticipacion >= 3: a if horas_anticipacion > 3:
+Esto ocasionaba que una cancelación realizada exactamente con 3 horas de anticipación fuera tratada incorrectamente como una cancelación tardía.
+- **Prueba que lo detecta:** @pytest.mark.unitaria
+def test_cancelacion_con_3_horas():
+
+    resultado = procesar_cancelacion(3)
+
+    assert resultado["clase_devuelta"] is True
+- **Qué pasaba y cómo lo corregí:** Al modificar el operador >= por >, la función dejó de considerar correctamente el valor límite de 3 horas. Como resultado, una cancelación realizada exactamente con 3 horas de anticipación ya no devolvía la clase al socio, incumpliendo la regla de negocio R2. La prueba unitaria detectó inmediatamente el error. Para corregirlo, se restauró la condición original:
