@@ -11,7 +11,7 @@
 | b) Puntos entregados | 20|
 | c) Porcentaje de cumplimiento |83.33 |
 | d) Tiempo de ciclo promedio (días) |2.5 dias |
-| e) Subconjunto: historias Must | titulopuntosestadoRegistro de renta de cancha8LiberaciónCálculo de tarifa nocturna y fin de semana8LiberaciónRegla de cancelación y reembolso5En proceso |
+| e) Subconjunto: historias Must | titulopuntosestadoConsultoar Costo Por Clase extra8Consulta De Costo Por Clase Extra8Multa Por Faltar A Clase5En proceso |
 
 ## Interpretación
 
