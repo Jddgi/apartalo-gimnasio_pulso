@@ -19,9 +19,9 @@ Pulso es una aplicación móvil diseñada para los socios del gimnasio de Marian
 
 | Sombrero | Lo que hago con él en este proyecto |
 |---|---|
-| 🎩 PO | `<...>` |
-| 🎩 SM | `<...>` |
-| 🎩 Desarrollador | `<...>` |
+| 🎩 PO | Asignarlo con clientes para que conozca necesidades y construya el proyecto |
+| 🎩 SM | Le asigno la tarea de coordinar con el PO las necesidades del cliente y lo que se necesita para los siguientes pasos  |
+| 🎩 Desarrollador | Asignarlo al SM para que puedan coodrinar el desarrollo |
 
 ## Cómo está organizado este repositorio
 
