@@ -55,4 +55,4 @@ Valores límite nuevos que agregué:
 |Estudiante |12 |Error |$240 |❌ | |
 
 ## 9.6 Reflexión: ¿por qué en cascada sería caro?
-
+En cascada, este cambio sería costoso porque la regla ya habría sido analizada, diseñada, programada y probada, por lo que agregar un nuevo plan obligaría a regresar a etapas anteriores y rehacer documentación, diseño y pruebas. En este proyecto estamos trabajando de manera ágil, por lo que el cambio se incorpora como una nueva historia de usuario dentro del siguiente sprint. Esto refleja el valor del Manifiesto Ágil: “respuesta ante el cambio sobre seguir un plan”, permitiendo adaptar el producto sin reiniciar el proyecto ni desperdiciar el trabajo realizado.
