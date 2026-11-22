@@ -37,9 +37,11 @@ La historia tiene prioridad Must porque responde directamente a una solicitud de
 
 ## 9.4 Escenarios actualizados
 
-Archivo modificado: `features/<archivo>.feature`
+Archivo modificado: `features/r1_cobro_clases.feature`
 
 Valores límite nuevos que agregué:
+- 8 clases (límite de clases incluidas del nuevo plan Estudiante).
+- 9 clases (primera clase extra del nuevo plan Estudiante).
 
 ## 9.5 Tabla FIT: antes y después
 
