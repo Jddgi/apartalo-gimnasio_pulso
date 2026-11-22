@@ -1,9 +1,11 @@
 # 9. El cliente cambió de opinión
 > Evidencia 2 · Ejercicio 1 · Temas 5, 6 y 7 · 🎩 PO
 
-**El aviso de mi cliente (cópialo tal cual):**
+**El aviso de mi cliente (cópialo tal cual):** Mariana: "Cerca hay una universidad. Quiero un plan para estudiantes."
 
-**Regla que cambia:** R1 / R2
+Nuevo plan Estudiante: 8 clases al mes incluidas y $60 por cada clase extra. Los otros planes siguen igual.
+
+**Regla que cambia:** R1 
 
 ## 9.1 La historia del cambio
 
