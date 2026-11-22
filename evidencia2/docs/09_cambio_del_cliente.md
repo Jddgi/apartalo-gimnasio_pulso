@@ -29,10 +29,11 @@ Nuevo plan Estudiante: 8 clases al mes incluidas y $60 por cada clase extra. Los
 
 ## 9.3 Refinamiento
 
-- **Prioridad (MoSCoW):**
-- **Puntos:**
-- **¿Cabe en mi carga máxima actualizada?** (ver `10_sprint2_planeacion.md`)
-- **Si la dividí:** subhistorias #, #
+- **Prioridad (MoSCoW):** MUST
+- **Puntos:** 5 puntos
+- **¿Cabe en mi carga máxima actualizada?** (ver `10_sprint2_planeacion.md`): si 
+- **Si la dividí:** No fue necesario dividirla.
+La historia tiene prioridad Must porque responde directamente a una solicitud del cliente y tiene impacto en el negocio al atraer nuevos usuarios estudiantes. Se estimó en 5 puntos debido a que requiere modificar una regla existente, actualizar pruebas unitarias y de aceptación, escenarios BDD y tablas FIT, pero no implica cambios complejos en la arquitectura. La carga estimada sigue siendo lo suficientemente pequeña para caber dentro de la carga máxima definida para el sprint.
 
 ## 9.4 Escenarios actualizados
 
