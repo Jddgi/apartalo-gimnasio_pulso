@@ -9,8 +9,8 @@ Nuevo plan Estudiante: 8 clases al mes incluidas y $60 por cada clase extra. Los
 
 ## 9.1 La historia del cambio
 
-- Issue nuevo: #
-- Historia original: #
+- Issue nuevo: #22
+- Historia original: #6
 
 ## 9.2 Análisis de impacto
 
