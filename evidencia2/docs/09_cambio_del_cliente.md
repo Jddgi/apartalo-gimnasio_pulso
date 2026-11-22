@@ -47,12 +47,12 @@ Valores límite nuevos que agregué:
 
 > Llena la última columna con tu **predicción** antes de tocar el código. En el Ejercicio 3 agrega la columna "Resultado real".
 
-| (entrada) | (entrada) | Esperado antes del aviso | Esperado ahora | ¿Mi código actual pasaría? (predicción) | Resultado real |
+| Plan | Clases tomadas | Esperado antes del aviso | Esperado ahora | ¿Mi código actual pasaría? (predicción) | Resultado real |
 |---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+|Estudiante |8 |Error |$0 |❌ | |
+|Estudiante |9 |Error |$60 |❌ | |
+|Estudiante |10 |Error |$120 |❌ | |
+|Estudiante |12 |Error |$240 |❌ | |
 
 ## 9.6 Reflexión: ¿por qué en cascada sería caro?
 
