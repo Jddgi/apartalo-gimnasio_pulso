@@ -13,7 +13,7 @@
 
 | Historia | Puntos | Por qué no terminó |
 |---|---|---|
-| # | | |
+| #3 |3 |El equipo priorizó terminar las historias principales del Sprint 1 y no hubo tiempo suficiente para completar, probar y aceptar la regla antes del cierre del sprint. |
 
 ## 10.2 Carga máxima actualizada
 
