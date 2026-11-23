@@ -60,7 +60,7 @@ La relación equipo–cliente se califica con 8 porque el trabajo entregado cump
 
 | Característica | ¿La protege mi diseño? | Cómo |
 |---|---|---|
-| | Sí | |
-| | Sí | |
-| | Sí | |
-| | No del todo | Cómo reduzco el riesgo: |
+|Equipos pequeños y manejables | Sí |Los equipos se mantuvieron entre 7 y 10 integrantes, evitando grupos demasiado grandes y facilitando la comunicación. |
+|Equipos estables | Sí |Cada equipo tiene responsabilidades definidas (núcleo común o clientes específicos), reduciendo cambios constantes de integrantes. |
+|Contacto frecuente con el cliente | Sí |Cada backlog tiene un Product Owner responsable de representar las necesidades de los clientes y participar en las revisiones de sprint. |
+|Especialistas dedicados al equipo | No del todo | Cómo reduzco el riesgo: Los DBA y diseñadores son compartidos entre varios equipos porque solo existen dos de cada perfil. Cómo reduzco el riesgo: planificar su participación con anticipación, reservar capacidad para tareas críticas y documentar estándares para disminuir dependencias. |
