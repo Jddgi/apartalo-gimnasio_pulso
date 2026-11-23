@@ -40,4 +40,8 @@ Fecha de la segunda fotografía (`metricas/tablero_s2.tsv`): 23.11.2026
 ## Parte D — La versión 1.0 · 🎩 desarrollador
 
 - `CHANGELOG.md` actualizado
-- Tag: `v1.0` → (enlace a la página de Tags o Releases)
+- Tag: `v1.0`
+- Tag: v1.0
+- Comando utilizado:
+git tag -a v1.0 -m "Versión 1.0: Sprint 2 de Apártalo"
+git push origin v1.0
