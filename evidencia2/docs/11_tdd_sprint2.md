@@ -40,14 +40,16 @@ E   ValueError: plan desconocido
 
 ## 11.2 R3 con TDD
 
-Función: `reglas.<nombre>()`
+Función: `reglas.procesar_cancelacion()`
 
 | Ciclo | Commit ROJO | Commit VERDE | Commit REFACTOR (si hubo) |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
+| 1 |ROJO: prueba cancelación con 3 horas |VERDE: permite cancelar con 3 horas sin penalización |REFACTOR: simplifica condiciones de cancelación |
+| 2 |ROJO: prueba horas negativas |VERDE: valida horas negativas con ValueError |REFACTOR: mejora validación de entradas |
 
-Decisiones de PO sobre dudas de R3:
+Decisiones de PO sobre dudas de R3: Se decidió que exactamente 3 horas antes de la clase cuentan como una cancelación válida y la clase no cuenta como tomada.
+
+También se decidió que cualquier cantidad negativa de horas es un dato inválido y debe producir un ValueError, ya que una cancelación después del inicio de la clase no tiene sentido para la operación del gimnasio.
 
 ## 11.3 R3 de escenario a prueba
 
