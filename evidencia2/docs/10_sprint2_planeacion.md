@@ -54,8 +54,8 @@ Si quedó algo en rojo, qué negocié como PO: No fue necesario negociar cambios
 
 | Acción de la retrospectiva del Sprint 1 | Qué hice en este sprint | Dónde se ve (enlace) |
 |---|---|---|
-| 1. | | |
-| 2. | | |
+| 1. Mejorar la cobertura de pruebas antes de cerrar una historia. |Agregué nuevas pruebas unitarias, de aceptación y la prueba RNF para validar el nuevo plan Estudiante y la regla R3. |Issue del cambio, carpeta tests/unitarias/, tests/aceptacion/ y tests/rnf/. |
+| 2.Mantener actualizados los escenarios y la documentación antes de programar. |Actualicé el archivo .feature, la tabla FIT, el análisis de impacto y la planeación antes de modificar el código. |features/r1_cobro_clases.feature, sección 9.2, sección 9.4 y sección 9.5 de la evidencia. |
 
 ## 10.6 Pronóstico (Figura 7 del Tema 14)
 
