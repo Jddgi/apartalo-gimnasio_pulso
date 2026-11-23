@@ -33,10 +33,12 @@ Sí. Existe un Product Manager encargado de coordinar los Product Owners de cada
 
 ## 13.3 Scrum de scrums
 
-- **Quién va:**
-- **Cada cuánto:**
-- **Qué se coordina:**
-- **Ejemplo con el cambio de mi cliente:**
+- **Quién va:** Asisten los Scrum Masters de cada equipo, el Product Manager cuando es necesario y los responsables de componentes compartidos del núcleo común.
+- **Cada cuánto:** Dos veces por semana durante 15 a 30 minutos, además de reuniones extraordinarias cuando exista un cambio importante que afecte a varios equipos.
+- **Qué se coordina:** Dependencias entre equipos, bloqueos compartidos, cambios en el núcleo común, fechas de entrega, integraciones, riesgos técnicos y prioridades que afectan a más de un backlog.
+- **Ejemplo con el cambio de mi cliente:** Mi cliente del Gimnasio Pulso solicitó la creación del nuevo plan Estudiante con reglas especiales para el cálculo de clases incluidas y clases extra. Aunque el cambio surgió en una sola aplicación, la lógica de membresías y cobros forma parte del núcleo común utilizado por otras aplicaciones de Apártalo.
+
+Este cambio debe discutirse en el Scrum de Scrums porque puede afectar funcionalidades compartidas de reservas, pagos y facturación. Los equipos deben acordar cómo modificar el núcleo sin romper las demás aplicaciones que utilizan las mismas funciones comunes.
 
 ## 13.4 La colaboración, con mis datos
 
