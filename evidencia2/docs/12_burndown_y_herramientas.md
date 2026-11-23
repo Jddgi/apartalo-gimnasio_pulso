@@ -19,18 +19,18 @@ Archivo: `burndown_sprint2.xlsx` (commits diarios: al menos 5)
 
 | Concepto | En mi GitHub Project | En TFS | En HP Agile Manager |
 |---|---|---|---|
-| Product backlog | | | |
-| Historia de usuario | | | |
-| Tarea | | | |
-| Sprint / iteración | | | |
-| Release (versión) | | | |
-| Capacidad del equipo | | | |
-| Tablero de tareas | | | |
-| Burndown | | | |
-| Velocidad esperada | | | |
-| Tablero de indicadores (*dashboard*) | | | |
+| Product backlog |Issues e historias en el Backlog del Project |Product Backlog |Product Backlog |
+| Historia de usuario |Issue con plantilla "Historia de usuario" |Product Backlog Item (PBI) |User Story |
+| Tarea |Checklist dentro del issue |task |Task |
+| Sprint / iteración |Campo Sprint del Project |Iteration |Sprint |
+| Release (versión) |Milestone o versión documentada |Release |Release |
+| Capacidad del equipo |Llevada manualmente en documentos y Excel |Capacity |Team Capacity |
+| Tablero de tareas |Vista Board del Project |Taskboard |Taskboard |
+| Burndown |Archivo Excel externo (burndown_sprint2.xlsx) |Burndown Chart |Burndown Widget |
+| Velocidad esperada |Calculada manualmente con los sprint anteriores |Velocity |Team Velocity |
+| Tablero de indicadores (*dashboard*) |Insights y Project Views |Dashboard |Dashboard |
 
-Lo que no existe en alguna herramienta y cómo lo resolví:
+Lo que no existe en alguna herramienta y cómo lo resolví: GitHub Project no incluye de forma nativa funcionalidades equivalentes a Capacity Planning, Velocity, Burndown y Forecasting como las que ofrecen TFS y HP Agile Manager. Para resolverlo, llevé la capacidad del sprint, la velocidad, el burndown y los cálculos de pronóstico mediante hojas de cálculo, documentos de la evidencia y métricas calculadas manualmente.
 
 ### Matriz de decisión para Apártalo
 
