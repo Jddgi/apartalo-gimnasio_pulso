@@ -21,9 +21,12 @@ Fecha de la segunda fotografía (`metricas/tablero_s2.tsv`): 23.11.2026
 
 | Historia | ¿Cumple sus criterios? | ¿Aceptada? | Evidencia |
 |---|---|---|---|
-| # | | | |
+| # - Nuevo plan Estudiante |Si |Si |Commit VERDE: agrega soporte para plan estudiante + salida de pytest en verde |
+| # – Implementar R3|Si |Si |Commit VERDE: permite cancelación de reservas según R3 + prueba test_r3_aceptacion.py |
+| # – Requisito no funcional de rendimiento|Si |Si |Archivo tests/rnf/test_rnf_rendimiento.py ejecutado correctamente |
+| # – Actualización de escenarios y documentación |Si |Si |Captura del archivo .feature actualizado y tabla FIT corregida |
 
-**Reacción de mi cliente → historia nueva para el Sprint 3:** #
+**Reacción de mi cliente → historia nueva para el Sprint 3:** #23 “Me gusta el nuevo plan Estudiante. Creo que también sería útil ofrecer promociones especiales para estudiantes durante periodos de inscripción o inicio de semestre.”
 
 ## Parte C — Retrospectiva del Sprint 2 · 🎩 SM
 
