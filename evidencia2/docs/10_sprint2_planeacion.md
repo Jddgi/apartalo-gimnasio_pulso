@@ -6,8 +6,8 @@
 
 | Dato | Valor |
 |---|---|
-| Puntos comprometidos en el Sprint 1 | |
-| Puntos entregados (mi velocidad real) | |
+| Puntos comprometidos en el Sprint 1 |21 |
+| Puntos entregados (mi velocidad real) |18 |
 
 **Historias que no terminé y pasan al Sprint 2:**
 
