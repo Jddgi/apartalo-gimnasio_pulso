@@ -17,11 +17,11 @@
 
 ## 10.2 Carga máxima actualizada
 
-- Las dos últimas velocidades de referencia de mi variante:
-- Mi velocidad real del Sprint 1:
-- **Operación:** ( ___ + ___ + ___ ) ÷ 3 = ___ ; ___ ÷ 2 = ___
-- **Carga máxima en la Evidencia 1:**  · **Ahora:**
-- ¿Qué cambia?
+- Las dos últimas velocidades de referencia de mi variante: 21 y 24 puntos
+- Mi velocidad real del Sprint 1: 18 puntos
+- **Operación:** ( 21 + 24 + 18 ) ÷ 3 = 21 ; 21 ÷ 2 = 10.5
+- **Carga máxima en la Evidencia 1:** 10.5 puntos· **Ahora:** 10.5 puntos
+- ¿Qué cambia?: La carga máxima no cambia porque el promedio de las dos velocidades de referencia y mi velocidad real sigue siendo 21 puntos. Esto indica que las historias mayores a 10.5 puntos deben seguir dividiéndose, mientras que las menores pueden entrar completas al sprint.
 
 ## 10.3 Objetivo y compromiso
 
