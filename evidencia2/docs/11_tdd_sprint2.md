@@ -62,12 +62,11 @@ También se decidió que cualquier cantidad negativa de horas es un dato inváli
 - **Por qué esta y no otra:** Se eligió esta restricción porque el nuevo plan Estudiante puede incrementar el número de usuarios utilizando la aplicación. Por ello resulta importante verificar que el sistema siga respondiendo correctamente bajo una alta carga de reservas.
 - **Prueba:** `tests/rnf/test_rnf_rendimiento.py`
 - **Cómo quedó mi DoD:** Una historia no puede considerarse terminada hasta que:
-
-- Cumpla sus criterios de aceptación.
-- Las pruebas unitarias y de aceptación pasen correctamente.
-- La cobertura de caminos identificados sea satisfactoria.
-- Las pruebas RNF de rendimiento pasen correctamente.
-- La documentación asociada esté actualizada.
+1.Cumpla sus criterios de aceptación.
+2.Las pruebas unitarias y de aceptación pasen correctamente.
+3.La cobertura de caminos identificados sea satisfactoria.
+4.Las pruebas RNF de rendimiento pasen correctamente.
+5.La documentación asociada esté actualizada.
 
 ## 11.5 Cobertura de R3
 
