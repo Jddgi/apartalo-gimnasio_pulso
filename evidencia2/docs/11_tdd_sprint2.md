@@ -53,8 +53,8 @@ También se decidió que cualquier cantidad negativa de horas es un dato inváli
 
 ## 11.3 R3 de escenario a prueba
 
-- `.feature`: `features/<archivo>.feature`
-- Prueba de aceptación: `tests/aceptacion/<archivo>.py`
+- `.feature`: `features/r3_cancelacion.feature`
+- Prueba de aceptación: `tests/aceptacion/test_r3_aceptacion.py`
 
 ## 11.4 Un requisito no funcional más
 
