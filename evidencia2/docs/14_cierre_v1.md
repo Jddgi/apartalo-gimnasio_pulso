@@ -3,19 +3,19 @@
 
 ## Parte A — Métricas: Sprint 1 contra Sprint 2
 
-Fecha de la segunda fotografía (`metricas/tablero_s2.tsv`):
+Fecha de la segunda fotografía (`metricas/tablero_s2.tsv`): 23.11.2026
 
 | Consulta | Resultado |
 |---|---|
-| a) Comprometidos y entregados de cada sprint | (pega la tabla) |
-| b) Velocidad del periodo de cada sprint y del periodo completo | |
-| c) Tiempo de ciclo promedio de cada sprint | |
-| d) Historias que pasaron del Sprint 1 al Sprint 2 | |
-| e) Puntos que quedan y sprints que faltan | |
+| a) Comprometidos y entregados de cada sprint | Sprint 1: comprometidos 21, entregados 18. Sprint 2: comprometidos 18, entregados 18. |
+| b) Velocidad del periodo de cada sprint y del periodo completo |Sprint 1: 18 ÷ 21 = 0.86 (86%). Sprint 2: 18 ÷ 18 = 1.00 (100%). Periodo completo: 36 ÷ 39 = 0.92 (92%). |
+| c) Tiempo de ciclo promedio de cada sprint |Sprint 1: 4 días. Sprint 2: 3 días. |
+| d) Historias que pasaron del Sprint 1 al Sprint 2 |R3 e implementación de documentación asociada a R3. |
+| e) Puntos que quedan y sprints que faltan |Restan 12 puntos. Con velocidad de 18 puntos por sprint se requiere aproximadamente 1 sprint adicional. |
 
 **Interpretación:**
-- ¿Mejoré del Sprint 1 al Sprint 2?
-- ¿El pronóstico del Ejercicio 2 se parece al de la consulta e)? ¿Por qué?
+- ¿Mejoré del Sprint 1 al Sprint 2? Sí. En el Sprint 1 se entregó el 86% de los puntos comprometidos, mientras que en el Sprint 2 se entregó el 100%. Además, el tiempo de ciclo promedio bajó de 4 a 3 días, indicando una mejora en la capacidad de entrega y en la planificación.
+- ¿El pronóstico del Ejercicio 2 se parece al de la consulta e)? ¿Por qué? Sí. Ambos pronósticos indican que el trabajo restante puede completarse aproximadamente en un sprint adicional. Esto ocurre porque utilizan como referencia la velocidad real observada durante el Sprint 2, que representa mejor el desempeño actual del equipo.
 
 ## Parte B — Revisión del Sprint 2 · 🎩 PO
 
