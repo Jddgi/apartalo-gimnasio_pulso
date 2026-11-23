@@ -33,7 +33,7 @@
 | #23 Implementar R3 |Pendiente Sprint 1 |3 |6h |
 | #03 Requisito no funcional |RNF |5 |8h |
 | #01 Actualización de escenarios y pruebas de R1 |Otra |5 |8h |
-| **Total** |18 |32h | |
+| **Total** ||18|32 |
 
 > Las tareas con sus horas van como lista dentro de cada issue: `- [ ] Pruebas de aceptación del cambio (3 h)`.
 
