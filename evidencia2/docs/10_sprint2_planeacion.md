@@ -41,14 +41,14 @@
 
 | Actividad | Horas por día | Días hábiles | Días libres | Capacidad (h) | Trabajo asignado (h) | ¿Verde o rojo? |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
-| Desarrollo | | 9 | | | | |
-| Pruebas | | 9 | | | | |
-| Documentación | | 9 | | | | |
-| **Total** | | | | | | |
+| Desarrollo |5 | 9 |1 |40 |19 |Verde |
+| Pruebas |2 | 9 |1 |16 |9 |Verde |
+| Documentación |1 | 9 |1 |8 |4 |Verde |
+| **Total** |8 |9 |1 |64 |32 |Verde |
 
-Mis días libres y por qué:
+Mis días libres y por qué: 1 día libre correspondiente al tiempo destinado a otras actividades académicas y preparación de entregas de otras materias.
 
-Si quedó algo en rojo, qué negocié como PO:
+Si quedó algo en rojo, qué negocié como PO: No fue necesario negociar cambios porque todas las actividades quedaron en verde y la capacidad disponible es mayor que el trabajo comprometido para el Sprint 2.
 
 ## 10.5 La retrospectiva del Sprint 1, aplicada
 
