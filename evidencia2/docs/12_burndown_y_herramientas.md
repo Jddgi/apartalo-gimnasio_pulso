@@ -36,16 +36,24 @@ Lo que no existe en alguna herramienta y cómo lo resolví: GitHub Project no in
 
 | Criterio | Peso | Excel | Jira Cloud | Azure DevOps Services | GitHub Projects |
 |---|:-:|:-:|:-:|:-:|:-:|
-| Propósito (funciones de Scrum) | | | | | |
-| Políticas y seguridad | | | | | |
-| Equipos distribuidos | | | | | |
-| Costo y licencias | | | | | |
-| Soporte e integración | | | | | |
-| Curva de aprendizaje | | | | | |
-| **Puntaje ponderado** | **100** | | | | |
+| Propósito (funciones de Scrum) |25 |2 |5 |5 |4 |
+| Políticas y seguridad |15 |3 |4 |5 |4 |
+| Equipos distribuidos |15 |2 |5 |5 |5 |
+| Costo y licencias |20 |5 |3 |3 |5 |
+| Soporte e integración |15 |2 |5 |5 |5 |
+| Curva de aprendizaje |10 |5 |3 |3 |4 |
+| **Puntaje ponderado** | **100** |3.05 |4.25 |4.40 |4.45 |
 
-Operación de la opción ganadora:
+Operación de la opción ganadora: 
 
-**Frase para el director:**
+(25×4 + 15×4 + 15×5 + 20×5 + 15×5 + 10×4) / 100
+=
+(100 + 60 + 75 + 100 + 75 + 40) / 100
+=
+450 / 100
+=
+4.45
 
-**Riesgo:**
+**Frase para el director:** Recomiendo GitHub Projects porque el código de Apártalo ya se encuentra en GitHub, ofrece integración inmediata con los repositorios, no requiere contratar otro proveedor y proporciona suficiente soporte para equipos distribuidos con un costo reducido para una startup.
+
+**Riesgo:** GitHub Projects no incluye de forma nativa capacidades avanzadas de planeación, velocidad, forecasting y gestión de capacidad como Jira Cloud o Azure DevOps Services, por lo que algunas métricas deberán seguir calculándose manualmente o con herramientas complementarias.
