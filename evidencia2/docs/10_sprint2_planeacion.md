@@ -25,12 +25,15 @@
 
 ## 10.3 Objetivo y compromiso
 
-**Objetivo del sprint:**
+**Objetivo del sprint:** Incorporar el nuevo plan Estudiante solicitado por el cliente, completar la regla R3 pendiente del Sprint 1 y fortalecer la calidad del sistema mediante la implementación del requisito no funcional y sus pruebas asociadas.
 
 | Historia | Tipo (cambio, R3, RNF, pendiente del Sprint 1, otra) | Puntos | Horas de sus tareas |
 |---|---|---|---|
-| # | | | |
-| **Total** | | | |
+| #22 Nuevo plan Estudiante |Cambio|5 |10h |
+| #23 Implementar R3 |Pendiente Sprint 1 |3 |6h |
+| #03 Requisito no funcional |RNF |5 |8h |
+| #01 Actualización de escenarios y pruebas de R1 |Otra |5 |8h |
+| **Total** |18 |32h | |
 
 > Las tareas con sus horas van como lista dentro de cada issue: `- [ ] Pruebas de aceptación del cambio (3 h)`.
 
