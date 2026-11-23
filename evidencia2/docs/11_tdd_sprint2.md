@@ -70,7 +70,21 @@ También se decidió que cualquier cantidad negativa de horas es un dato inváli
 
 ## 11.5 Cobertura de R3
 
-- **Caminos** (cada `return` y cada `raise`):
-- **Caminos que recorren mis pruebas:**
-- **Cobertura:**
-- **Resultado final de `pytest`:** ___ passed
+- **Caminos** (cada `return` y cada `raise`): La función procesar_cancelacion() tiene 3 caminos:
+
+raise ValueError cuando las horas son negativas.
+return cuando la cancelación ocurre con 3 horas o más de anticipación.
+return cuando la cancelación ocurre con menos de 3 horas de anticipación.
+- **Caminos que recorren mis pruebas:** Las pruebas recorren:
+
+Cancelación con 5 horas → camino 2 ✅
+Cancelación con 3 horas → camino 2 ✅
+Cancelación con 2 horas → camino 3 ✅
+Cancelación con 0 horas → camino 3 ✅
+Horas negativas (-1) → camino 1 ✅
+- **Cobertura:** Caminos totales: 3
+
+Caminos recorridos por las pruebas: 3
+
+Cobertura = 3 / 3 × 100 = 100 %
+- **Resultado final de `pytest`:** 20 passed
