@@ -3,15 +3,25 @@
 
 ## 13.1 La estructura
 
-¿Figura 1, Figura 2 o una combinación? Por qué:
+¿Figura 1, Figura 2 o una combinación? Por qué: Usaría una combinación de la Figura 1 y la Figura 2. El núcleo común (reservas, pagos y cancelaciones) se administraría con un backlog compartido y equipos coordinados mediante Scrum de Scrums. Las funcionalidades específicas de cada cliente tendrían sus propios backlogs, priorizados por Product Owners distintos y coordinados por un Product Manager.
+<img width="767" height="567" alt="image" src="https://github.com/user-attachments/assets/fcc4ca49-1a07-495e-9e65-7cdc1d091ed4" />
+Mi variante: Gimnasio Pulso
+→ Equipo Cliente A
 
+Núcleo común:
+→ Reservas
+→ Pagos
+→ Cancelaciones
 ![Estructura de Apártalo](img/estructura_apartalo.png)
 
 | Equipo | Integrantes (devs, testers, otros) | Backlog | PO | Qué construye |
 |---|---|---|---|---|
-| | | | | |
+|Equipo Núcleo |8 devs, 2 testers, 1 DBA |Backlog Núcleo |PO Núcleo |Reservas, pagos y cancelaciones compartidas |
+|Equipo Cliente A |7 devs, 2 testers, 1 diseñador |Backlog Cliente A |PO Cliente A |Gimnasio Pulso y clientes similares |
+|Equipo Cliente B |7 devs, 2 testers, 1 diseñador |Backlog Cliente B |PO Cliente B |Resto de clientes y personalizaciones |
 
 ¿Hay *Product Manager*? ¿Quién?
+Sí. Existe un Product Manager encargado de coordinar los Product Owners de cada línea de producto, priorizar iniciativas globales y resolver conflictos entre los distintos backlogs.
 
 ## 13.2 Los tamaños, justificados
 
