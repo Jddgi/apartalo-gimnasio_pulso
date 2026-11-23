@@ -30,12 +30,12 @@ Fecha de la segunda fotografía (`metricas/tablero_s2.tsv`): 23.11.2026
 
 ## Parte C — Retrospectiva del Sprint 2 · 🎩 SM
 
-- **¿Funcionaron las acciones del Sprint 1?**
-- **¿Qué salió bien?**
-- **¿Qué hay que mejorar?**
+- **¿Funcionaron las acciones del Sprint 1?** Sí. Las dos acciones definidas en la retrospectiva anterior ayudaron a mejorar el resultado del Sprint 2. Se actualizaron las pruebas antes de modificar el código y se mantuvieron los escenarios y la documentación sincronizados con los cambios solicitados por el cliente. Esto redujo errores y permitió entregar todas las historias comprometidas.
+- **¿Qué salió bien?** La incorporación del nuevo plan Estudiante se realizó sin afectar las funcionalidades existentes. También mejoró la cobertura de pruebas, el Sprint 2 cumplió el 100% de los puntos comprometidos y la documentación se mantuvo actualizada durante el desarrollo.
+- **¿Qué hay que mejorar?** Las métricas y el seguimiento del burndown todavía dependen de actividades manuales. Además, algunas tareas técnicas fueron más difíciles de estimar de lo esperado, por lo que conviene mejorar la planeación y automatizar parte del seguimiento.
 - **Acciones para un Sprint 3:**
-  1.
-  2.
+  1. Automatizar la recopilación de métricas y reportes para reducir trabajo manual durante el cierre de cada sprint.
+  2. Incrementar la cobertura de pruebas de requisitos no funcionales para identificar problemas de rendimiento y calidad antes de liberar cambios.
 
 ## Parte D — La versión 1.0 · 🎩 desarrollador
 
