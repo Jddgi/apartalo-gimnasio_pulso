@@ -59,7 +59,7 @@ Si quedó algo en rojo, qué negocié como PO: No fue necesario negociar cambios
 
 ## 10.6 Pronóstico (Figura 7 del Tema 14)
 
-Velocidad con la que pronostico:
+Velocidad con la que pronostico: 18 puntos por sprint
 
 | Sprint | Historias (en orden de prioridad) | Puntos |
 |---|---|:-:|
