@@ -44,15 +44,17 @@ Este cambio debe discutirse en el Scrum de Scrums porque puede afectar funcional
 
 | Medición | Operación | Resultado |
 |---|---|---|
-| Velocidad del periodo, Sprint 1 | entregados ÷ comprometidos | |
-| Velocidad del periodo, Sprint 2 | | |
-| Velocidad del periodo completo | Σ entregados ÷ Σ comprometidos | |
-| PO–cliente (0 a 10) | — | |
-| Equipo–cliente (1 a 10) | — | |
+| Velocidad del periodo, Sprint 1 | 18 ÷ 21 |0.86 (86%) |
+| Velocidad del periodo, Sprint 2 |18 ÷ 18 |1.00 (100%) |
+| Velocidad del periodo completo | (18 + 18) ÷ (21 + 18) |36 ÷ 39 = 0.92 (92%) |
+| PO–cliente (0 a 10) | — |9 |
+| Equipo–cliente (1 a 10) | — |8 |
 
-Justificación de las calificaciones de mi cliente:
+Justificación de las calificaciones de mi cliente: La relación PO–cliente se califica con 9 porque existió comunicación constante durante los dos sprints. El cliente pudo solicitar cambios importantes, como el nuevo plan Estudiante, y estos fueron atendidos e incorporados al backlog sin conflictos.
 
-**La relación más débil y qué cambiaría primero:**
+La relación equipo–cliente se califica con 8 porque el trabajo entregado cumplió los criterios de aceptación y se respondieron los cambios solicitados. Sin embargo, la comunicación normalmente ocurrió a través del Product Owner y no directamente entre el cliente y el desarrollo.
+
+**La relación más débil y qué cambiaría primero:** La relación más débil es equipo–cliente. Para mejorarla, incorporaría demostraciones más frecuentes y sesiones de retroalimentación directa con los usuarios finales durante cada Sprint Review. Esto permitiría validar antes las funcionalidades y detectar expectativas incorrectas con mayor rapidez.
 
 ## 13.5 Las estrategias
 
