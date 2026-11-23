@@ -63,8 +63,9 @@ Velocidad con la que pronostico:
 
 | Sprint | Historias (en orden de prioridad) | Puntos |
 |---|---|:-:|
-| Sprint 3 | | |
-| Sprint 4 | | |
-| … | | |
+| Sprint 3 |Nuevo plan Estudiante (5), R3 (3), RNF (5), Actualización de pruebas y documentación (5) |18 |
+| Sprint 4 |Historias pendientes del backlog futuro |18 |
+| Sprint 5 |Historias pendientes del backlog futuro |18 |
 
-**Sprints que faltan para vaciar el backlog:**
+**Sprints que faltan para vaciar el backlog:** 3 sprints
+Tomando como referencia una velocidad real de 18 puntos por sprint, el trabajo pendiente puede distribuirse en bloques de aproximadamente 18 puntos. Las historias del Sprint 2 consumen la capacidad completa de un sprint, por lo que se estiman tres sprints adicionales para vaciar el backlog restante y mantener un ritmo sostenible.
